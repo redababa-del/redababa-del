@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I’m a college student learning computer science.  <br><br>- Exploring programming, algorithms, and data structures  <br>- Working on projects...<br>- Sharing my code to practice and track my progress<br><br>Check out my repositories to see what I’m building!</p>
+<p align="left">I’m a University student learning computer science.  <br><br>- Exploring programming, algorithms, and data structures  <br>- Working on projects...<br>- Sharing my code to practice and track my progress<br><br>Check out my repositories to see what I’m building!</p>
 
 ###
 
