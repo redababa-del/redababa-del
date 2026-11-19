@@ -11,10 +11,8 @@
 ###
 
 <p align="left">
-  I’m a University student learning computer science.
+  I’m a 2nd year bachelor student of Computer science.
   <br><br>
-  - Exploring programming, algorithms, and data structures
-  <br>
   - Working on projects...
   <br>
   - Sharing my code to practice and track my progress
