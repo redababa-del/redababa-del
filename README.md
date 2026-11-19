@@ -11,7 +11,7 @@
 ###
 
 <p align="left">
-  I’m a 2nd year bachelor student of Computer science.
+  I’m a 2nd year bachelor student in Computer science.
   <br><br>
   - Working on projects...
   <br>
