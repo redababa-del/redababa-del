@@ -29,7 +29,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original.svg" height="40" alt="ocaml logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg"
      height="40"
      alt="C logo" />
   <img width="12" />
